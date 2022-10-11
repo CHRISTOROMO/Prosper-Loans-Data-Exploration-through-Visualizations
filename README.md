@@ -27,3 +27,7 @@ We can easily see the loan amount increases with the increase of the IncomeRange
 ![image](https://user-images.githubusercontent.com/99474042/195062355-a80aa7d5-7507-445e-8b9f-22c6f295bb38.png)
 
 We can also note most employed people requesting the loan are also homeowners and most people with higher income levels (i.e $50000 and above) are also homeowners. 
+
+## License
+
+Distributed under the MIT License. See license.txt for more information.
