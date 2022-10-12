@@ -20,13 +20,22 @@ in the un-categorized job profession. Most people requesting for the loan to con
 
 ## Key Insights for Presentation
 
-![image](https://user-images.githubusercontent.com/99474042/195062174-70b9ac90-ae06-4323-8033-601d7712fbed.png)
+![image](https://user-images.githubusercontent.com/99474042/195328231-90e38e51-1712-4323-92cf-c668b84df1c5.png)
 
-We can easily see the loan amount increases with the increase of the IncomeRange
+From the above we can easily tell that people on mid-range salary levels are the ones requesting most loans.
 
-![image](https://user-images.githubusercontent.com/99474042/195062355-a80aa7d5-7507-445e-8b9f-22c6f295bb38.png)
+![image](https://user-images.githubusercontent.com/99474042/195328526-7ce872c8-5704-4e34-b723-4ed9defc2722.png)
 
-We can also note most employed people requesting the loan are also homeowners and most people with higher income levels (i.e $50000 and above) are also homeowners. 
+From the above, the distribution of the Estimated loss is skewed to the right, while the Estimated return variable is slightly symmetrical.
+
+![image](https://user-images.githubusercontent.com/99474042/195329136-c2607dff-1fab-4c00-9097-9b0bed363b04.png)
+
+From the above we can tell from the above that the higher the credit score of a person, the lower the interest rate on the loan.
+
+![image](https://user-images.githubusercontent.com/99474042/195329360-50ca75d3-f34f-44d9-9dd6-4e254c976785.png)
+
+From the above, we can also see that most people with higher income levels (i.e $50000 and above) are also homeowners.
+
 
 ## License
 
