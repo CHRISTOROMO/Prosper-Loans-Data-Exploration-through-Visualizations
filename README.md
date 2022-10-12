@@ -20,22 +20,29 @@ in the un-categorized job profession. Most people requesting for the loan to con
 
 ## Key Insights for Presentation
 
-![image](https://user-images.githubusercontent.com/99474042/195328231-90e38e51-1712-4323-92cf-c668b84df1c5.png)
+![image](https://user-images.githubusercontent.com/99474042/195343189-30da520b-0926-431a-9675-e42487e28c58.png)
 
-From the above we can easily tell that people on mid-range salary levels are the ones requesting most loans.
+From the above observation, we can easily tell that people on mid-range salary levels are the ones requesting most loans and that the most loans are still active.
 
-![image](https://user-images.githubusercontent.com/99474042/195328526-7ce872c8-5704-4e34-b723-4ed9defc2722.png)
+![image](https://user-images.githubusercontent.com/99474042/195343307-0e3f1bce-f3a1-4942-9942-c9c299c1da77.png)
 
-From the above, the distribution of the Estimated loss is skewed to the right, while the Estimated return variable is slightly symmetrical.
+From the above, the distribution of the Estimated loss is skewed to the right, while the Estimated return variable is slightly symmetrical. Also most loans are requested by people with a credit score of 700. Also the credit score rating is skewed to the left.
 
-![image](https://user-images.githubusercontent.com/99474042/195329136-c2607dff-1fab-4c00-9097-9b0bed363b04.png)
+![image](https://user-images.githubusercontent.com/99474042/195343393-22e7a75c-4764-402f-bd65-6c53228f88b7.png)
 
 From the above we can tell from the above that the higher the credit score of a person, the lower the interest rate on the loan.
 
-![image](https://user-images.githubusercontent.com/99474042/195329360-50ca75d3-f34f-44d9-9dd6-4e254c976785.png)
+![image](https://user-images.githubusercontent.com/99474042/195343468-056e831f-a666-4846-bd24-73e0e838d84d.png)
 
-From the above, we can also see that most people with higher income levels (i.e $50000 and above) are also homeowners.
+From the above, we can also see that most people with higher income levels (i.e $50000 and above) are also homeowners. Also most employed people requesting for the loan are also homeowners.
 
+![image](https://user-images.githubusercontent.com/99474042/195343570-e541393a-2c20-482e-ae7f-dfddd4a6da75.png)
+
+From the above, we can tell that original loan amount tend to rise with the increase in the Income Range. The highest income range bracket contains the most diverse request amounts of the original loan amount.
+
+![image](https://user-images.githubusercontent.com/99474042/195343664-0593dbc6-5356-46de-a409-5ebbef196db2.png)
+
+We can see that the BorrowerAPR and the BorrowerRate are highly correlated. Also the EstimatedLoss and the EstimatedReturn are highly correlated.
 
 ## License
 
