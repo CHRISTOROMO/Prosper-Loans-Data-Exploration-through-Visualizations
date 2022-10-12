@@ -32,7 +32,7 @@ From the above, the distribution of the Estimated loss is skewed to the right, w
 
 From the above we can tell from the above that the higher the credit score of a person, the lower the interest rate on the loan.
 
-![image](https://user-images.githubusercontent.com/99474042/195408513-d2a113d2-7c57-473e-b56b-b66855b198e9.png)
+![image](https://user-images.githubusercontent.com/99474042/195410041-9554bd95-6ed2-4fe5-a093-d0a792dc9bc4.png)
 
 From the above, we can also see that most people with higher income levels (i.e $50000 and above) are also homeowners. Also most employed people requesting for the loan are also homeowners.
 
