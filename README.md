@@ -11,12 +11,15 @@ This data set contains 113,937 loans with 81 variables on each loan, including l
 
 ## Summary of Findings
 
-I started by doing the descriptive statistics on the numeric columns to get an insight into how the data is distributed. I found out that most loans were of
-36 months term period and above and the highest term was 60. The estimated mean return from the loan was -0.182700 which indicates negative returns.
-We have more loans on the current status and they tend to have a lower estimated loss. The higher the borrower's annual percentage rate (APR) for the loan, 
-the higher the Estimated Loss and Estimated Return. The higher a person's credit score, the lower the interest rate on the loan. Most people requesting 
-the loan are on the mid-range salary levels. Most people requesting the loan are on employed status. Most people requesting the loan are 
-in the un-categorized job profession. Most people requesting for the loan to consolidate other current loans they have.
+* We have more loans on current status and they tend to have lower estimated loss.
+* The higher the borrowers annual percentage rate (APR) for the loan, the higher the Estimated Loss and Estimated Return.
+* The higher the credit score of a person, the lower the interest rate on the loan.
+* Most employed people requesting for the loan are also homeowners.
+* Most people with higher income levels (i.e $50000 and above) are also homeowners.
+* Most people requesting for the loan are on the mid-range salary levels.
+* Most people requesting for the loan are on the employed status.
+* Most people requesting for the loan are on the un-categorized job profession.
+* Most people requesting for the loan to consolidate other current loans they have.
 
 ## Key Insights for Presentation
 
