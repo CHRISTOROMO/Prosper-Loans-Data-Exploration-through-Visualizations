@@ -25,7 +25,7 @@ This data set contains 113,937 loans with 81 variables on each loan, including l
 
 ![image](https://user-images.githubusercontent.com/99474042/195408253-3fb44808-d537-4a52-b8a2-55630fa34c2f.png)
 
-From the above observation, we can easily tell that people on mid-range salary levels are the ones requesting most loans and that the most loans are still active.
+From the above observation, we can tell that people on mid-range salary levels are the ones requesting most loans and that the most loans are still active.
 
 ![image](https://user-images.githubusercontent.com/99474042/195408326-77275198-99a1-456a-beb1-7987dba78eab.png)
 
